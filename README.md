@@ -1,2 +1,2 @@
 # Hugo
-A static profile/portfolio website built by Hugo
+A static profile/portfolio website built in Hugo
